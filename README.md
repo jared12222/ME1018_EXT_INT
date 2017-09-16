@@ -2,7 +2,7 @@
     For class about External Interrupt
 ## Thinks you need to know before using External Interrupt
     Interrupt principles, Basic Digital logic.
-## Description about fuctions
+## Description about functions
 ### M128 EXT
     This series of function tends to set up all the settings and get the information related to External Interrupt on M128(ATmega128). Basic principles about these functions are based on the "registers" that control or indicate the status about External interrupt. Registers' description is in the following table.
 
